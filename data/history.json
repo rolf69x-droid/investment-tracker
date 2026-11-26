@@ -208,5 +208,26 @@
         "source": "https://www.raiffeisen.it/de/kastelruth-stulrich/rgo-mp/top-navi/finanzinformationen/investmentfonds/detail/fund/fu_921559.html"
       }
     }
+  },
+  {
+    "recorded_at": "2026-11-26 (Europe/Rome)",
+    "collected_utc": "2026-11-26T15:54:05+00:00",
+    "prices": {
+      "DE0008477076": {
+        "nav": 306.72,
+        "date": "2026-11-24",
+        "source": "https://www.raiffeisen.it/de/kastelruth-stulrich/rgo-mp/top-navi/finanzinformationen/investmentfonds/detail/fund/fu_100011481.html"
+      },
+      "DE0005314116": {
+        "nav": 84.91,
+        "date": "2026-11-24",
+        "source": "https://www.raiffeisen.it/de/kastelruth-stulrich/rgo-mp/top-navi/finanzinformationen/investmentfonds/detail/fund/fu_531411.html"
+      },
+      "LU0101441672": {
+        "nav": 330.07,
+        "date": "2026-11-24",
+        "source": "https://www.raiffeisen.it/de/kastelruth-stulrich/rgo-mp/top-navi/finanzinformationen/investmentfonds/detail/fund/fu_921559.html"
+      }
+    }
   }
 ]
